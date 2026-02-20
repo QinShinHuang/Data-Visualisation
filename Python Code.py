@@ -1,5 +1,3 @@
-## Below is my code i implemented to run the mood tracker
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
