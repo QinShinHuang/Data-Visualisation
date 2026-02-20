@@ -23,7 +23,7 @@ bash
 pip install pandas matplotlib
 python mood_tracker.py
 Why I Built This
-As a Psychology graduate with a background in healthcare and data analysis, I wanted to combine behavioural science principles with practical Python skills. This project bridges both worlds — mental health awareness and data engineering.
+As a Psychology graduate with a background in healthcare and data analysis, I wanted to combine behavioural science principles with practical Python skills. This project bridges both worlds of mental health awareness and data engineering.
 
 # Author
 Arn Gabriel Canares 
