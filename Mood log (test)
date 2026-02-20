@@ -1,0 +1,137 @@
+##input this data into VS code testing if it comes up
+
+[
+  {
+    "date": "2026-01-21",
+    "time": "09:00",
+    "score": 4,
+    "mood": "Good",
+    "emotions": [
+      "Sad"
+    ],
+    "note": ""
+  },
+  {
+    "date": "2026-01-22",
+    "time": "09:00",
+    "score": 4,
+    "mood": "Good",
+    "emotions": [
+      "Motivated",
+      "Overwhelmed"
+    ],
+    "note": ""
+  },
+  {
+    "date": "2026-01-23",
+    "time": "09:00",
+    "score": 4,
+    "mood": "Good",
+    "emotions": [
+      "Happy",
+      "Motivated",
+      "Overwhelmed"
+    ],
+    "note": ""
+  },
+  {
+    "date": "2026-01-24",
+    "time": "09:00",
+    "score": 1,
+    "mood": "Very Low",
+    "emotions": [
+      "Sad",
+      "Calm"
+    ],
+    "note": ""
+  },
+  {
+    "date": "2026-01-25",
+    "time": "09:00",
+    "score": 4,
+    "mood": "Good",
+    "emotions": [
+      "Stressed"
+    ],
+    "note": ""
+  },
+  {
+    "date": "2026-01-26",
+    "time": "09:00",
+    "score": 4,
+    "mood": "Good",
+    "emotions": [
+      "Overwhelmed",
+      "Stressed",
+      "Energised"
+    ],
+    "note": ""
+  },
+  {
+    "date": "2026-01-27",
+    "time": "09:00",
+    "score": 5,
+    "mood": "Great",
+    "emotions": [
+      "Stressed",
+      "Happy",
+      "Energised"
+    ],
+    "note": ""
+  },
+  {
+    "date": "2026-01-28",
+    "time": "09:00",
+    "score": 3,
+    "mood": "Neutral",
+    "emotions": [
+      "Happy",
+      "Calm"
+    ],
+    "note": ""
+  },
+  {
+    "date": "2026-01-29",
+    "time": "09:00",
+    "score": 5,
+    "mood": "Great",
+    "emotions": [
+      "Motivated"
+    ],
+    "note": ""
+  },
+  {
+    "date": "2026-01-30",
+    "time": "09:00",
+    "score": 5,
+    "mood": "Great",
+    "emotions": [
+      "Anxious",
+      "Calm"
+    ],
+    "note": ""
+  },
+  {
+    "date": "2026-01-31",
+    "time": "09:00",
+    "score": 4,
+    "mood": "Good",
+    "emotions": [
+      "Sad",
+      "Motivated",
+      "Overwhelmed"
+    ],
+    "note": ""
+  },
+  {
+    "date": "2026-02-01",
+    "time": "09:00",
+    "score": 4,
+    "mood": "Good",
+    "emotions": [
+      "Sad"
+    ],
+    "note": ""
+  }
+]
+    
